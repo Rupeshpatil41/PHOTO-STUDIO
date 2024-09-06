@@ -1,0 +1,21 @@
+div{
+    height: 200px;
+border: 5px solid aquamarine;
+background-color: blanchedalmond;
+border-radius: 15px;
+margin-bottom: 25px;
+
+}
+button:hover{
+    background-color: aquamarine;
+    color: black;
+
+}
+button{
+    border-radius: 15px;
+}
+h1{
+    background-color:aquamarine;
+    color: black;
+}
+
